@@ -1,3 +1,3 @@
 I have learned a lot in my intership. I made some projects from what i learned there. like SLiMS(Senayan Libarary Management System), MediaWiki and Kali Linux
 - About SLiMS. I manage to fix the bug & do some experiments along the way like making a borrow mechanism
-- Mediawiki, 
+- Mediawiki, I made a self wiki where it can view from phone while keeping the contents tidy
